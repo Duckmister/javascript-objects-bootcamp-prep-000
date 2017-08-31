@@ -1,5 +1,5 @@
 
-var playlist = { 
+var playlist = {
   artistName: "The Postal Service",
   songTitle; "Nothing Better"
 }
